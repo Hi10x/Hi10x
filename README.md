@@ -1,22 +1,22 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">Namaste 🙏, I'm Hitendra</h1>
-<h3 align="center">A passionate Software Tester:"Ensuring Quality, One Bug at a Time"</h3>
+<h3 align="center">A passionate Software Tester, turned as Web Developer </h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/214929/screenshots/4366947/media/ad7632627df868ba4c04668d7c96266e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi10x&label=Profile%20views&color=0e75b6&style=flat" alt="hi10x" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Functional Testing - Web Applications**
+- 🔭 I’m currently working on **Web Development skills and projects**
 
-- 🌱 I’m currently learning **API Testing, Cypress**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 
-- 👯 I’m looking to collaborate on **Automation & API Testing projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **Automation projects**
+- 🤝 I’m looking for help with **Developing a functionality**
 
-- 💬 Ask me about **Functional Testing**
+- 💬 Ask me about **Functional Testing and Web Development**
 
 - 📫 How to reach me **htntyd05@gmail.com**
 
